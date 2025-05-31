@@ -5,7 +5,8 @@ Data-Driven Business Intelligence & Unlocking Key Business Metrics
 
 A dynamic, interactive Power BI visualization tool designed to analyze sales data—focusing on customer trends, product performance, freight costs, and revenue optimization.
 
-📌 Short Description
+📌 Short Description:
+
 The Sales Insights Dashboard helps businesses understand sales trends across multiple categories, customers, and regions through interactive reporting. This tool is perfect for business analysts, finance teams, and strategists looking to optimize revenue and forecast business performance.
 
 
