@@ -11,10 +11,15 @@ The Sales Insights Dashboard helps businesses understand sales trends across mul
 🛠 Tech Stack
 The dashboard was built using:
 ✅ Power BI Desktop – Main data visualization platform for report creation
+
 ✅ Power Query – Data transformation & cleaning
+
 ✅ DAX – Used for calculated columns, measures, and dynamic visuals
+
 ✅ SQL – Data processing & querying
+
 ✅ Data Modeling – Establishes relationships among tables for effective reporting
+
 ✅ File Format – .pbix for development, .png for dashboard previews
 
 📂 Data Source
@@ -53,6 +58,6 @@ Companies often struggle to:
 
 📷 Demo
 Dashboard Preview: https://github.com/Madhu9628/Sales_Analysis_Report/blob/main/Screenshot_of_Sales_Analysis.png
-📌 Check out my work: [Your GitHub Repository Link]
+📌 Check out my work: https://github.com/Madhu9628/Sales_Analysis_Report/blob/main/first%20project.pbix
 
 
