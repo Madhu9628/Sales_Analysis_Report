@@ -11,6 +11,7 @@ The Sales Insights Dashboard helps businesses understand sales trends across mul
 
 
 🛠 Tech Stack
+
 The dashboard was built using:
 
 ✅ Power BI Desktop – Main data visualization platform for report creation
@@ -25,38 +26,58 @@ The dashboard was built using:
 
 ✅ File Format – .pbix for development, .png for dashboard previews
 
-📂 Data Source
+📂 Data Source:
+
 📌 Sales transaction records
+
 📌 Customer details & purchase trends
+
 📌 Product categories & revenue analysis
+
 📌 Freight & shipment data
+
 📌 Country-wise sales distribution
 
 
 💼 Business Problem
+
 Companies often struggle to:
 
 🔹 Identify their top-performing customers and products
+
 🔹 Optimize sales strategies across different shipping methods
+
 🔹 Analyze freight costs relative to total revenue
+
 🔹 Forecast business trends using historical data
 
 🎯 Goal of Dashboard
+
 🔹 Provide detailed insights into revenue, customer behavior, and logistics costs
+
 🔹 Help businesses make data-driven decisions and improve efficiency
+
 🔹 Enable strategic forecasting to boost profitability
 
 📊 Walkthrough of Key Visuals
+
 🔹 Sales Overview – Displays total revenue across different years and shipment methods
+
 🔹 Top Customers & Products – Highlights major buyers and best-selling items
+
 🔹 Country-wise Sales – Maps global sales distribution
+
 🔹 Freight Analysis – Evaluates logistics expenses and shipping trends
+
 🔹 Quarterly & Monthly Trends – Identifies seasonal patterns and business cycles
 
 
 🚀 Business Impact & Insights
+
 ✅ Marketing Optimization – Helps sales teams target key customer groups
+
 ✅ Strategic Expansion – Identifies high-performing product categories and regions
+
 ✅ Financial Planning – Improves revenue forecasting and logistics efficiency
 
 📷 Demo
