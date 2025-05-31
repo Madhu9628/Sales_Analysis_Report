@@ -53,3 +53,6 @@ Companies often struggle to:
 
 📷 Demo
 Dashboard Preview: https://github.com/Madhu9628/Sales_Analysis_Report/blob/main/Screenshot_of_Sales_Analysis.png
+📌 Check out my work: [Your GitHub Repository Link]
+
+
