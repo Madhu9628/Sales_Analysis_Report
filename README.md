@@ -26,6 +26,7 @@ The dashboard was built using:
 
 ✅ File Format – .pbix for development, .png for dashboard previews
 
+
 📂 Data Source:
 
 📌 Sales transaction records
@@ -37,6 +38,7 @@ The dashboard was built using:
 📌 Freight & shipment data
 
 📌 Country-wise sales distribution
+
 
 
 💼 Business Problem
@@ -51,6 +53,7 @@ Companies often struggle to:
 
 🔹 Forecast business trends using historical data
 
+
 🎯 Goal of Dashboard
 
 🔹 Provide detailed insights into revenue, customer behavior, and logistics costs
@@ -58,6 +61,7 @@ Companies often struggle to:
 🔹 Help businesses make data-driven decisions and improve efficiency
 
 🔹 Enable strategic forecasting to boost profitability
+
 
 📊 Walkthrough of Key Visuals
 
@@ -80,8 +84,11 @@ Companies often struggle to:
 
 ✅ Financial Planning – Improves revenue forecasting and logistics efficiency
 
+
 📷 Demo
+
 Dashboard Preview: https://github.com/Madhu9628/Sales_Analysis_Report/blob/main/Screenshot_of_Sales_Analysis.png
+
 📌 Check out my work: https://github.com/Madhu9628/Sales_Analysis_Report/blob/main/first%20project.pbix
 
 
