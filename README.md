@@ -1,15 +1,17 @@
 # Sales_Analysis_Report
-📊 Sales Insights Dashboard – Data-Driven Business Intelligence
-📝 Project Title / Headline
-🚀 Sales Insights Dashboard: Unlocking Key Business Metrics
+
+📊 Sales Insights Dashboard –
+Data-Driven Business Intelligence & Unlocking Key Business Metrics
+
 A dynamic, interactive Power BI visualization tool designed to analyze sales data—focusing on customer trends, product performance, freight costs, and revenue optimization.
 
-📌 Short Description / Purpose
+📌 Short Description
 The Sales Insights Dashboard helps businesses understand sales trends across multiple categories, customers, and regions through interactive reporting. This tool is perfect for business analysts, finance teams, and strategists looking to optimize revenue and forecast business performance.
 
 
 🛠 Tech Stack
 The dashboard was built using:
+
 ✅ Power BI Desktop – Main data visualization platform for report creation
 
 ✅ Power Query – Data transformation & cleaning
@@ -29,7 +31,7 @@ The dashboard was built using:
 📌 Freight & shipment data
 📌 Country-wise sales distribution
 
-🔎 Features – Dashboard Explanation Format
+
 💼 Business Problem
 Companies often struggle to:
 
